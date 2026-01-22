@@ -1,4 +1,4 @@
-<h1 align="center">🌈💖 I LOVE MY FRIEND ABHISHEK 💖🌈</h1>
+<h1 align="center">🌈💖 I LOVE MY ABHISHEK 💖🌈</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Friendship+Forever+🤝;Best+Friend+Abhishek+💙;True+Bond+Never+Breaks+🔥&center=true&width=500&height=45">
@@ -8,18 +8,18 @@
 
 ## 💫 About This README
 
-✨ This repository is a **symbol of friendship**  
-💙 Dedicated to my **best friend Abhishek**  
+✨ This repository is a **symbol of Love**  
+💙 Dedicated to my **Love of Life Abhishek**  
 🔥 Because real friends are forever  
 
 ---
 
 ## 🧑‍🤝‍🧑 Why Abhishek is Special?
 
-- 🌟 Always supportive  
+- 🌟 Always handsome  
 - 💡 Always motivating  
 - 😂 Makes life fun  
-- 🤝 True friend for life  
+- 🤝 True love for life  
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 🖼️ Friendship Vibes
+## 🖼️ Lover Vibes
 
 <p align="center">
   ❤️ 💛 💚 💙 💜  
@@ -45,7 +45,7 @@
 
 ---
 
-## 🏆 Badge of Friendship
+## 🏆 Badge of Love
 
 <p align="center">
   <img src="https://img.shields.io/badge/Friendship-FOREVER-red?style=for-the-badge">
